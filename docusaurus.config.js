@@ -20,10 +20,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://BAAI-EI-DATA.github.io/',
+  url: 'https:///baai-ei-data.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/website-test/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
