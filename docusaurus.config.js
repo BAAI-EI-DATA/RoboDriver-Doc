@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'RoboDriver',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -23,12 +23,12 @@ const config = {
   url: 'https:///baai-ei-data.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/website-test/',
+  baseUrl: '/RoboDriver-Doc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'BAAI-EI-DATA', // Usually your GitHub org/user name.
-  projectName: 'website-test', // Usually your repo name.
+  projectName: 'RoboDriver-Doc', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
